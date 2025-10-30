@@ -38,7 +38,7 @@
     <div class="gallery">
         <div class="photo">
             <img src="https://github.com/Chell111/pies.github.io/blob/main/piesek%20oli.jpg?raw=true" alt="Opis zdjęcia 1" />
-            <div class="description">Imienia nie pamiętam ≡(▔﹏▔)≡
+            <div class="description">Imienia nie pamiętam
         </div>
       
     </div>
